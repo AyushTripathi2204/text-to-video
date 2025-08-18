@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.pot
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist/
+build/
+*.bak
+.DS_Store
+
+# Virtual environment
+.venv/
+env/
+ENV/
+venv/
+pip-wheel-metadata/
+site/
+
+# Environment & secrets
+.env
+.env.*
+
+# Manim/Video artifacts
+manim-backend/media/
+manim-backend/videos/
+manim-backend/*.mp4
+manim-backend/*.png
+
+# Node.js (Next.js frontend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.next/
+out/
+coverage/
+*.next/
+
+# VSCode / IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store

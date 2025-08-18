@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ayush/text-to-video/manin-backend/media/videos/tmp_262d05f1-baa4-4f2a-95ae-ccff653292e3/720p30/partial_movie_files/PromptScene/2016333726_3765933803_1982671855.mp4'
+file 'file:C:/Users/ayush/text-to-video/manin-backend/media/videos/tmp_262d05f1-baa4-4f2a-95ae-ccff653292e3/720p30/partial_movie_files/PromptScene/543634251_1966996604_435949722.mp4'
+file 'file:C:/Users/ayush/text-to-video/manin-backend/media/videos/tmp_262d05f1-baa4-4f2a-95ae-ccff653292e3/720p30/partial_movie_files/PromptScene/543634251_1097033070_383610573.mp4'
+file 'file:C:/Users/ayush/text-to-video/manin-backend/media/videos/tmp_262d05f1-baa4-4f2a-95ae-ccff653292e3/720p30/partial_movie_files/PromptScene/543634251_3692681690_281266210.mp4'
+file 'file:C:/Users/ayush/text-to-video/manin-backend/media/videos/tmp_262d05f1-baa4-4f2a-95ae-ccff653292e3/720p30/partial_movie_files/PromptScene/543634251_1839128356_4001833373.mp4'

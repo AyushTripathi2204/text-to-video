@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ayush/text-to-video/manin-backend/media/videos/tmp_051eaa92-f446-47df-8402-5b20b1230881/720p30/partial_movie_files/PromptScene/2016333726_3926834842_223132457.mp4'
+file 'file:C:/Users/ayush/text-to-video/manin-backend/media/videos/tmp_051eaa92-f446-47df-8402-5b20b1230881/720p30/partial_movie_files/PromptScene/543634251_1537413723_2926302686.mp4'
+file 'file:C:/Users/ayush/text-to-video/manin-backend/media/videos/tmp_051eaa92-f446-47df-8402-5b20b1230881/720p30/partial_movie_files/PromptScene/543634251_1465295647_3817797211.mp4'
+file 'file:C:/Users/ayush/text-to-video/manin-backend/media/videos/tmp_051eaa92-f446-47df-8402-5b20b1230881/720p30/partial_movie_files/PromptScene/543634251_321697946_4171336490.mp4'
+file 'file:C:/Users/ayush/text-to-video/manin-backend/media/videos/tmp_051eaa92-f446-47df-8402-5b20b1230881/720p30/partial_movie_files/PromptScene/543634251_2834923921_2338684605.mp4'
+file 'file:C:/Users/ayush/text-to-video/manin-backend/media/videos/tmp_051eaa92-f446-47df-8402-5b20b1230881/720p30/partial_movie_files/PromptScene/543634251_1097033070_350908693.mp4'
+file 'file:C:/Users/ayush/text-to-video/manin-backend/media/videos/tmp_051eaa92-f446-47df-8402-5b20b1230881/720p30/partial_movie_files/PromptScene/543634251_4286019269_68249340.mp4'
+file 'file:C:/Users/ayush/text-to-video/manin-backend/media/videos/tmp_051eaa92-f446-47df-8402-5b20b1230881/720p30/partial_movie_files/PromptScene/543634251_4097414129_68249340.mp4'
+file 'file:C:/Users/ayush/text-to-video/manin-backend/media/videos/tmp_051eaa92-f446-47df-8402-5b20b1230881/720p30/partial_movie_files/PromptScene/543634251_2652991492_68249340.mp4'
+file 'file:C:/Users/ayush/text-to-video/manin-backend/media/videos/tmp_051eaa92-f446-47df-8402-5b20b1230881/720p30/partial_movie_files/PromptScene/543634251_2038813717_68249340.mp4'
+file 'file:C:/Users/ayush/text-to-video/manin-backend/media/videos/tmp_051eaa92-f446-47df-8402-5b20b1230881/720p30/partial_movie_files/PromptScene/543634251_1839128356_1662186334.mp4'

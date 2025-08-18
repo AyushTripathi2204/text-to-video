@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ayush/text-to-video/manin-backend/media/videos/tmp_043fd624-8b10-4023-8b17-ef12f885ecc1/720p30/partial_movie_files/PromptScene/2016333726_2369261151_223132457.mp4'
+file 'file:C:/Users/ayush/text-to-video/manin-backend/media/videos/tmp_043fd624-8b10-4023-8b17-ef12f885ecc1/720p30/partial_movie_files/PromptScene/543634251_2142955279_103483171.mp4'
+file 'file:C:/Users/ayush/text-to-video/manin-backend/media/videos/tmp_043fd624-8b10-4023-8b17-ef12f885ecc1/720p30/partial_movie_files/PromptScene/543634251_2827081297_2057177744.mp4'
+file 'file:C:/Users/ayush/text-to-video/manin-backend/media/videos/tmp_043fd624-8b10-4023-8b17-ef12f885ecc1/720p30/partial_movie_files/PromptScene/543634251_1461405062_3606734738.mp4'
+file 'file:C:/Users/ayush/text-to-video/manin-backend/media/videos/tmp_043fd624-8b10-4023-8b17-ef12f885ecc1/720p30/partial_movie_files/PromptScene/543634251_3712821168_3606734738.mp4'
+file 'file:C:/Users/ayush/text-to-video/manin-backend/media/videos/tmp_043fd624-8b10-4023-8b17-ef12f885ecc1/720p30/partial_movie_files/PromptScene/543634251_3922821671_3606734738.mp4'
+file 'file:C:/Users/ayush/text-to-video/manin-backend/media/videos/tmp_043fd624-8b10-4023-8b17-ef12f885ecc1/720p30/partial_movie_files/PromptScene/543634251_4274985781_3606734738.mp4'
+file 'file:C:/Users/ayush/text-to-video/manin-backend/media/videos/tmp_043fd624-8b10-4023-8b17-ef12f885ecc1/720p30/partial_movie_files/PromptScene/543634251_1839128356_335168950.mp4'
