@@ -28,7 +28,13 @@ site/
 .env
 .env.*
 
-# Manim/Video artifacts
+# FastAPI/Manim video and temp artifacts (edit paths if different)
+videos/
+tempfiles/
+*.mp4
+*.png
+
+# Manim/Video artifacts (if in custom subfolders in your repo)
 manim-backend/media/
 manim-backend/videos/
 manim-backend/*.mp4
